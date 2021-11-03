@@ -9,7 +9,7 @@
 #pragma resource "*.dfm"
 TForm1 *Form1;
 
-int x=-4,y=-6;
+int x=-6,y=-6;
 int pt1=0,pt2=0;
 int odbicia=0;
 int prawo=0,lewo=0;
