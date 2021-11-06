@@ -232,6 +232,8 @@ void __fastcall TForm1::Button2Click(TObject *Sender)
 ball->Left=496;
 ball->Top=360;
 x=-6,y=-4;
+pt1=0;
+pt2=0;
 ball->Visible=true;
 Timer1->Enabled=true;
 Button1->Visible=false;
